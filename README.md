@@ -4,23 +4,23 @@ A project organizing and collaboration tool that helps individuals and teams to 
 
 ## Functionalities
 
-User Well-bean Board
+### User bean Board
+Set daily well-being goals and track your progress. 
 
-Project Board 
+### Project Board 
+Create lists and tasks to manage your project.
 
-Chat With Direct Messages
+### Chat
+Send real-time, direct message to your teammates.
 
-Zoom Integration
+### Zoom Integration
+Schedule zoom meeting for your team.
 
-Calendar 
-
-Data Visualisation of 
-
-Unique  Visual Display and the Css of the Application.
-
+### Calendar 
+View, create and edit your event and well-being tasks.
 
 
-## Built With
+## Technologies
 
 Java
 
