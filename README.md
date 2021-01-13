@@ -1,6 +1,6 @@
 # Well-Bean
 
-A project organizing and collaboration tool that helps individuals and teams to work effectively and cares about your personal well-being.
+A project organizing and collaboration tool that helps individuals and teams to work effectively while improve personal well-being.
 
 ## Functionalities
 
