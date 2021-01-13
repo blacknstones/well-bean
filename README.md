@@ -1,26 +1,20 @@
-# Teamify (Well-Bean)
+# Well-Bean
 
-“The well-being of the future is not solely granted by new and disruptive technologies; it is granted by what lies behind them: the human well-factor. And because the ability to picture the future is one of the most outstanding human qualities, it all starts from wanting and picturing a better, desirable one.” — Matteo Penzo, CEO Frontiers Conferences
-In the contemporary business world, our definition of productivity has been limited in economic factors. Organizations use KPI (key performance indicator) to measure their success, however, employee’s well-being hasn’t been recognized as a crucial part of this evaluation at the management level. It is prevalent that employees will experience general stress from work which are not given space to be expressed and dealt with. Employees are expected to be highly functional and productive towards organizational goals, sometimes even sacrifice their personal time and needs. This approach of productivity has limited the mutual growth of organization and employee. While the organization grows, employees are burned out. 
-It’s time to think differently and incorporate the well-being of employees to measure business’s success.
+A project organizing and collaboration tool that helps individuals and teams to work effectively and cares about your personal well-being.
 
-
-
-## About the Project
-
-Concept Of The Application :
+## Functionalities
 
 User Well-bean Board
 
 Project Board 
 
-Chat Implementation With Direct Messages.
+Chat With Direct Messages
 
-Zoom Integration.
+Zoom Integration
 
 Calendar 
 
-Data Visualisation Of The User Bean Score.
+Data Visualisation of 
 
 Unique  Visual Display and the Css of the Application.
 
@@ -30,9 +24,7 @@ Unique  Visual Display and the Css of the Application.
 
 Java
 
-REST API
-
-Spring
+Spring Boot
 
 Websockets  
 
@@ -42,9 +34,7 @@ JMS
 
 React
 
-Java Script
-
-CSS
+JavaScript
 
 PostgresQl  
 
@@ -52,8 +42,6 @@ MongoDb
 
 
 ## Getting Started
-
-
 
 ### Prerequisites
 
@@ -65,13 +53,11 @@ npm install npm@latest -g
 
 Clone the repo
 
-git clone git@github.com:lukaszczajkowski/teamify.git
-
+git clone https://github.com/blacknstones/well-bean.git
 
 ## Usage
 
 Please refer the vedio recording in git "WellBean.MP4" 
-
 
 ## Roadmap
 
@@ -85,12 +71,5 @@ Contributions are what make the open source community such an amazing place to b
 
 Yanwei Zhu, Bhagyashri0312, lukaszczajkowski, IndupriyaB, ElenaKolpakova, aparnamishraoss
 
-Project Link: https://github.com/lukaszczajkowski/teamify
+Project Link: https://github.com/blacknstones/well-bean.git
 
-## Acknowledgements
-
-https://fullcalendar.io/docs/react
-
-https://fonts.googleapis.com
-
-https://marketplace.zoom.us/
